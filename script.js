@@ -23,11 +23,11 @@ window.onload = function() {
     document.getElementById("restart-game").addEventListener("click", initGame);
     domEvents();
 }
-
+/*
 function domEvents(){
   alert(document.body.lastElementChild.innerHTML)
 }
-
+*/
 /**
  * Functionality for playing the whole game
  */
